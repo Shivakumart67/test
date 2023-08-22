@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shivakumara T
+Skills: HTML, CSS, JS, React Js, Node Js, Mango DB, Java, SprigBoot, PHP, Codeigniter, jQuery, Ajax, Express.js, Next.js
+Email: shivakumart67@gmail.com
+{{/user}}
